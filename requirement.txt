@@ -1,0 +1,9 @@
+psutil
+pandas
+numpy
+scikit-learn
+joblib
+datetime
+matplotlib
+pathlib
+streamlit
